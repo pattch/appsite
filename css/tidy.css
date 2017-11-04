@@ -224,8 +224,8 @@ a:active
 {
 	display: none;
     z-index: 1; 
-    background-color: #00e676 !important; 
-    color: #212121 !important; 
+    background-color: #aaf !important; 
+    color: #fff !important; 
     position: absolute; 
     top: -28px; 
     right: 5%
@@ -250,8 +250,8 @@ a:active
 .desktop-fab
 {
     z-index: 1; 
-    background-color: #00e676 !important; 
-    color: #212121 !important; 
+    background-color: #aaf !important; 
+    color: #fff !important; 
     margin-bottom: -28px;
 }	
 
