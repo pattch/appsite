@@ -4,7 +4,7 @@
 
 * 
 {
-	font-family:RobotoDraft,sans-serif;
+	font-family:sans-serif;
 	-webkit-transition:all .3s ease;
 	-moz-transition:all .3s ease;
 	-o-transition:all .3s ease;
@@ -294,6 +294,16 @@ a:active
 {
 	font-size: 0.9em;
 	font-weight: 400;
+}
+
+.credits-text a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+
+.credits-text a:hover {
+  color: #aaf;
 }
 
 .meta-container
