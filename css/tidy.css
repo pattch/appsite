@@ -1,10 +1,10 @@
 @charset UTF-8;
-@import url(http://fonts.googleapis.com/css?family=RobotoDraft:regular,bold,italic,thin,light,bolditalic,black,medium&lang=en);
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:regular,bold,italic,thin,light,bolditalic,black,medium&lang=en');
 
 
 * 
 {
-	font-family:sans-serif;
+	font-family:'Open Sans',sans-serif;
 	-webkit-transition:all .3s ease;
 	-moz-transition:all .3s ease;
 	-o-transition:all .3s ease;
@@ -154,7 +154,7 @@ a:active
 
 .cover-image 
 {
-	background-image:url(../img/appsite_hero.png);
+	background-image:url(../img/gradient.jpg);
 	background-size:cover;
 	background-position:center;
 	height:100%;
