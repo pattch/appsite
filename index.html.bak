@@ -40,7 +40,7 @@
               <br><div class="intertext-padding"></div>
               <span class="text-subtitle">Low Poly Art Generation</span>
               <br><div class="intertext-padding"></div>
-              <span class="text-subtitle">Made by Sam Sampson</span>
+              <span class="text-subtitle">Created by Sam Sampson</span>
             </div>	
           </div>
         <br />
@@ -113,7 +113,7 @@
       <div class="empty-space">
         <div class="meta-container wow fadeInUp">
           <div class="wow fadeInUp detail-item watermark credits">
-            <span class="text-description credits-text" style="color: #ffffff">Made by <a href="http://www.samuelsampson.com">Sam Sampson</a></span>
+            <span class="text-description credits-text" style="color: #ffffff">Created by <a href="http://www.samuelsampson.com">Sam Sampson</a></span>
           </div>
         </div>	
       </div>
